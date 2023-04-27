@@ -1,0 +1,51 @@
+.m {
+  background-color: aqua;
+  position: relative;
+  height: 500px;
+  width: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.a {
+  background-color: blueviolet;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  height: 100px;
+  width: 100px;
+}
+
+.b {
+  background-color: brown;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  height: 100px;
+  width: 100px;
+}
+
+.c {
+  background-color: yellow;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100px;
+  width: 100px;
+}
+.d {
+  background-color: chartreuse;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  height: 100px;
+  width: 100px;
+}
+
+.e {
+  background-color: violet;
+  position: absolute;
+  height: 100px;
+  width: 100px;
+}
